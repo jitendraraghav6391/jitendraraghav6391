@@ -106,7 +106,7 @@ CGPA: 7.58/10
 
 📧 Email: [jitendraraghav6391@gmail.com](mailto:jitendraraghav6391@gmail.com)
 
-💼 LinkedIn: jitendraraghav-niper24
+💼 LinkedIn: 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/jitendraraghav-niper24)
 
 
 📍 Kolkata, India
