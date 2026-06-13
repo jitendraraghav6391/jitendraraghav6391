@@ -18,19 +18,13 @@ My current work focuses on identifying novel SIRT1 activators through an integra
 
 ### 🧬 Identification of Novel SIRT1 Activators Using Computational Techniques
 
-✔ Developed Ligand-Based Pharmacophore Models
-
-✔ Developed Structure-Based Pharmacophore Models
-
-✔ Performed Virtual Screening of Chemical Libraries
-
-✔ Conducted Molecular Docking and Binding Analysis
-
-✔ Calculated Binding Affinity using MM-GBSA
-
-✔ Executed 200 ns Molecular Dynamics Simulations
-
-✔ Applied Molecular Fingerprint-Based Clustering for Lead Prioritization
+* Developed Ligand-Based Pharmacophore Models
+* Developed Structure-Based Pharmacophore Models
+* Performed Virtual Screening of Chemical Libraries
+* Conducted Molecular Docking and Binding Analysis
+* Calculated Binding Affinity using MM-GBSA
+* Executed 200 ns Molecular Dynamics Simulations
+* Applied Molecular Fingerprint-Based Clustering for Lead Prioritization
 
 ---
 
@@ -38,32 +32,15 @@ My current work focuses on identifying novel SIRT1 activators through an integra
 
 ### Molecular Modeling & Drug Discovery
 
-* GROMACS
-* Desmond
-* Schrödinger Suite
-* Glide
-* PyMOL
-* Discovery Studio
-* Chimera
+GROMACS • Desmond • Schrödinger Suite • Glide • PyMOL • Discovery Studio • Chimera
 
 ### Programming & Data Analysis
 
-* Python
-* SQL
-* Perl
-* Pandas
-* NumPy
-* Matplotlib
-* Scikit-learn
+Python • SQL • Perl • Pandas • NumPy • Matplotlib • Scikit-learn
 
 ### Cheminformatics & Bioinformatics
 
-* RDKit
-* Sequence Analysis
-* Molecular Fingerprinting
-* Clustering Analysis
-* Virtual Screening
-* Pharmacophore Modeling
+RDKit • Sequence Analysis • Molecular Fingerprinting • Clustering Analysis • Virtual Screening • Pharmacophore Modeling
 
 ---
 
