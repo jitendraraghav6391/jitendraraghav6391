@@ -81,4 +81,4 @@ National Institute of Pharmaceutical Education and Research (NIPER), Kolkata
 
 📧 Email: jitendraraghav6391@gmail.com
 
-💼 LinkedIn: Add your LinkedIn URL here
+💼 LinkedIn: jitendraraghav-niper24
