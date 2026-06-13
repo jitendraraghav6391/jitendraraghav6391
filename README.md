@@ -108,7 +108,6 @@ CGPA: 7.58/10
 
 💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/jitendraraghav-niper24)
 
-
 📍 Kolkata, India
 
 ---
