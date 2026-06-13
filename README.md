@@ -80,20 +80,6 @@ My current work focuses on identifying novel SIRT1 activators through an integra
 
 ---
 
-## Featured Projects
-
-🚀 SIRT1 Activator Discovery
-
-🚀 Molecular Dynamics Analysis Scripts
-
-🚀 RDKit Cheminformatics Workflows
-
-🚀 Pharmacophore Modeling & Virtual Screening
-
-*(Repositories will be added and updated regularly.)*
-
----
-
 ## Education
 
 ### M.S. Pharmacoinformatics
@@ -120,7 +106,8 @@ CGPA: 7.58/10
 
 📧 Email: [jitendraraghav6391@gmail.com](mailto:jitendraraghav6391@gmail.com)
 
-💼 LinkedIn: https://linkedin.com/in/jitendraraghav-niper24
+💼 LinkedIn: jitendraraghav-niper24
+
 
 📍 Kolkata, India
 
