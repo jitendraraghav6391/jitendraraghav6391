@@ -4,81 +4,68 @@
 
 Computational Drug Discovery | Molecular Modeling | Bioinformatics | Cheminformatics
 
+---
 
 ## About Me
 
-I am a postgraduate student in Pharmacoinformatics at NIPER Kolkata with interests in computational drug discovery, molecular modeling, molecular dynamics simulations, virtual screening, and AI-driven drug discovery.
+I am a postgraduate student in Pharmacoinformatics at NIPER Kolkata with research interests in computer-aided drug design (CADD), molecular dynamics simulations, pharmacophore modeling, virtual screening, and AI-driven drug discovery.
 
-My current research focuses on identifying novel SIRT1 activators using pharmacophore modeling, molecular docking, MM-GBSA calculations, and molecular dynamics simulations.
+My current work focuses on identifying novel SIRT1 activators through an integrated computational workflow involving pharmacophore modeling, molecular docking, MM-GBSA calculations, molecular dynamics simulations, and cheminformatics-based lead prioritization.
 
 ---
 
-## Research Interests
+## Current Research
 
-- Computer-Aided Drug Design (CADD)
-- Structure-Based Drug Discovery
-- Molecular Dynamics Simulations
-- Pharmacophore Modeling
-- Virtual Screening
-- Cheminformatics
-- Bioinformatics
-- AI/ML for Drug Discovery
+### Identification of Novel SIRT1 Activators Using Computational Techniques
+
+* Ligand-Based Pharmacophore Modeling
+* Structure-Based Pharmacophore Modeling
+* Virtual Screening of Chemical Libraries
+* Molecular Docking and Binding Analysis
+* MM-GBSA Binding Energy Calculations
+* 200 ns Molecular Dynamics Simulations
+* Molecular Fingerprint-Based Clustering and Lead Selection
 
 ---
 
 ## Technical Skills
 
-### Molecular Modeling
-- GROMACS
-- Desmond
-- Schrödinger Suite
-- Glide
-- PyMOL
-- Discovery Studio
-- Chimera
+### Molecular Modeling & Drug Discovery
 
-### Programming
-- Python
-- SQL
-- Perl
+GROMACS • Desmond • Schrödinger Suite • Glide • PyMOL • Discovery Studio • Chimera
 
-### Data Science
-- Pandas
-- NumPy
-- Matplotlib
-- Scikit-learn
+### Programming & Data Analysis
+
+Python • SQL • Perl • Pandas • NumPy • Matplotlib • Scikit-learn
 
 ### Cheminformatics & Bioinformatics
-- RDKit
-- Sequence Analysis
-- Molecular Fingerprinting
-- Clustering Analysis
+
+RDKit • Molecular Fingerprinting • Clustering Analysis • Sequence Analysis
 
 ---
 
-## Current Research Project
+## Research Interests
 
-### Identification of Novel SIRT1 Activators Using Computational Techniques
-
-- Ligand-Based Pharmacophore Modeling
-- Structure-Based Pharmacophore Modeling
-- Virtual Screening
-- Molecular Docking
-- MM-GBSA Analysis
-- 200 ns Molecular Dynamics Simulations
-- Molecular Fingerprint Clustering
+* Computer-Aided Drug Design (CADD)
+* Structure-Based Drug Discovery
+* Molecular Dynamics Simulations
+* Pharmacophore Modeling
+* Virtual Screening
+* Cheminformatics
+* Bioinformatics
+* AI/ML for Drug Discovery
 
 ---
 
 ## Education
 
-**M.S. Pharmacoinformatics**  
+**M.S. Pharmacoinformatics**
 National Institute of Pharmaceutical Education and Research (NIPER), Kolkata
 
 ---
 
-## Contact
+## Connect With Me
 
-📧 Email: jitendraraghav6391@gmail.com
+📧 Email: [jitendraraghav6391@gmail.com](mailto:jitendraraghav6391@gmail.com)
 
-💼 LinkedIn: jitendraraghav-niper24
+💼 LinkedIn: linkedin.com/in/jitendraraghav-niper24
