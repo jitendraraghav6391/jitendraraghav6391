@@ -1,14 +1,14 @@
 # Hi, I'm Jitendra Raghav 👋
 
-### M.S. Pharmacoinformatics @ NIPER Kolkata
+### M.S. Pharmacoinformatics @ NIPER Kolkata (2024–2026)
 
-Computational Drug Discovery | Molecular Modeling | Bioinformatics | Cheminformatics
+🔬 Computational Drug Discovery | Molecular Modeling | Bioinformatics | Cheminformatics
 
 ---
 
 ## About Me
 
-I am a postgraduate student in Pharmacoinformatics at NIPER Kolkata with research interests in computer-aided drug design (CADD), molecular dynamics simulations, pharmacophore modeling, virtual screening, and AI-driven drug discovery.
+I am a postgraduate student in Pharmacoinformatics at the National Institute of Pharmaceutical Education and Research (NIPER), Kolkata, with research interests in Computer-Aided Drug Design (CADD), Molecular Dynamics Simulations, Pharmacophore Modeling, Virtual Screening, and AI-driven Drug Discovery.
 
 My current work focuses on identifying novel SIRT1 activators through an integrated computational workflow involving pharmacophore modeling, molecular docking, MM-GBSA calculations, molecular dynamics simulations, and cheminformatics-based lead prioritization.
 
@@ -16,15 +16,21 @@ My current work focuses on identifying novel SIRT1 activators through an integra
 
 ## Current Research
 
-### Identification of Novel SIRT1 Activators Using Computational Techniques
+### 🧬 Identification of Novel SIRT1 Activators Using Computational Techniques
 
-* Ligand-Based Pharmacophore Modeling
-* Structure-Based Pharmacophore Modeling
-* Virtual Screening of Chemical Libraries
-* Molecular Docking and Binding Analysis
-* MM-GBSA Binding Energy Calculations
-* 200 ns Molecular Dynamics Simulations
-* Molecular Fingerprint-Based Clustering and Lead Selection
+✔ Developed Ligand-Based Pharmacophore Models
+
+✔ Developed Structure-Based Pharmacophore Models
+
+✔ Performed Virtual Screening of Chemical Libraries
+
+✔ Conducted Molecular Docking and Binding Analysis
+
+✔ Calculated Binding Affinity using MM-GBSA
+
+✔ Executed 200 ns Molecular Dynamics Simulations
+
+✔ Applied Molecular Fingerprint-Based Clustering for Lead Prioritization
 
 ---
 
@@ -32,15 +38,32 @@ My current work focuses on identifying novel SIRT1 activators through an integra
 
 ### Molecular Modeling & Drug Discovery
 
-GROMACS • Desmond • Schrödinger Suite • Glide • PyMOL • Discovery Studio • Chimera
+* GROMACS
+* Desmond
+* Schrödinger Suite
+* Glide
+* PyMOL
+* Discovery Studio
+* Chimera
 
 ### Programming & Data Analysis
 
-Python • SQL • Perl • Pandas • NumPy • Matplotlib • Scikit-learn
+* Python
+* SQL
+* Perl
+* Pandas
+* NumPy
+* Matplotlib
+* Scikit-learn
 
 ### Cheminformatics & Bioinformatics
 
-RDKit • Molecular Fingerprinting • Clustering Analysis • Sequence Analysis
+* RDKit
+* Sequence Analysis
+* Molecular Fingerprinting
+* Clustering Analysis
+* Virtual Screening
+* Pharmacophore Modeling
 
 ---
 
@@ -57,10 +80,39 @@ RDKit • Molecular Fingerprinting • Clustering Analysis • Sequence Analysis
 
 ---
 
+## Featured Projects
+
+🚀 SIRT1 Activator Discovery
+
+🚀 Molecular Dynamics Analysis Scripts
+
+🚀 RDKit Cheminformatics Workflows
+
+🚀 Pharmacophore Modeling & Virtual Screening
+
+*(Repositories will be added and updated regularly.)*
+
+---
+
 ## Education
 
-**M.S. Pharmacoinformatics**
-National Institute of Pharmaceutical Education and Research (NIPER), Kolkata
+### M.S. Pharmacoinformatics
+
+**National Institute of Pharmaceutical Education and Research (NIPER), Kolkata**
+CGPA: 8.15/10
+
+### B.Pharm
+
+**Mahatma Jyotiba Phule Rohilkhand University, Bareilly**
+CGPA: 7.58/10
+
+---
+
+## Certifications
+
+* Molecular Docking Workshop – IIT Guwahati
+* Python for Data Science – Coursera
+* Data Analytics Using Python – NPTEL (IIT Roorkee)
 
 ---
 
@@ -68,4 +120,10 @@ National Institute of Pharmaceutical Education and Research (NIPER), Kolkata
 
 📧 Email: [jitendraraghav6391@gmail.com](mailto:jitendraraghav6391@gmail.com)
 
-💼 LinkedIn: linkedin.com/in/jitendraraghav-niper24
+💼 LinkedIn: https://linkedin.com/in/jitendraraghav-niper24
+
+📍 Kolkata, India
+
+---
+
+*"Leveraging computational approaches to accelerate drug discovery and therapeutic innovation."*
